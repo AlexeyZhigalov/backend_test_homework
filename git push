@@ -1,0 +1,101 @@
+[33mcommit 3a0e40d1cdfdb9f0585b5e9dcddcbe0a9883c2ef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Wed Dec 1 21:16:13 2021 +0300
+
+    commit from home
+
+[33mcommit 9855fd363318ea68f4332b5cee4c4ba538a9b463[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: AlexeyZhigalov <95298429+AlexeyZhigalov@users.noreply.github.com>
+Date:   Tue Nov 30 20:27:29 2021 +0300
+
+    Delete .gitignore 1.txt
+
+[33mcommit fde0298029ef2a218816714c300b6ca90abbc795[m
+Author: AlexeyZhigalov <95298429+AlexeyZhigalov@users.noreply.github.com>
+Date:   Tue Nov 30 20:27:16 2021 +0300
+
+    Delete .gitignore 1 - копия.txt
+
+[33mcommit 233a874feadf1d68176efbb8e213c548e7c70b2b[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 20:10:14 2021 +0300
+
+    123
+
+[33mcommit 143136da717bbdb9e54cea887c7159ede684e036[m
+Merge: 2e44932 32d103c
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 19:53:09 2021 +0300
+
+    Merge branch 'master' of github.com:AlexeyZhigalov/backend_test_homework
+
+[33mcommit 2e449323d67d8742d8defa74d84b1298636c5d0f[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 19:38:08 2021 +0300
+
+    m 2nd
+
+[33mcommit 32d103c6a110e4f0935a1f33b5ccf584725021ff[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 19:38:08 2021 +0300
+
+    m 2nd
+
+[33mcommit 4655e55f5fdb58328fc741b9c7953d22971400d9[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 19:20:26 2021 +0300
+
+    first
+
+[33mcommit 8da2ef2e5e66af7938f3a4f479aae5a9318b8c35[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 18:59:24 2021 +0300
+
+    Added .gitignore file
+
+[33mcommit 984f1f460ac941668992c5d91ebbfde1abce6b11[m
+Author: Алексей Жигалов <avzh79@gmail.com>
+Date:   Tue Nov 30 18:51:41 2021 +0300
+
+    мой первый
+
+[33mcommit bda5c41d014b6d64080d4220d744a05bea96978d[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Fri Oct 22 12:46:24 2021 +0300
+
+    Delete .gitignore
+    
+    Студенты должны самостоятельно создавать и наполнять этот файл.
+
+[33mcommit a8a17725e512be95f88d6ba6ab2f07d88d56db03[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Jun 2 12:00:52 2021 +0300
+
+    fixed tests launch
+
+[33mcommit d0bc9ed2155193a0fd4f4cf585e26371ced8ed3e[m
+Merge: 5757a20 5f83f04
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 5 08:48:01 2021 +0300
+
+    Merge pull request #11 from TurboKach/master
+    
+    changes
+
+[33mcommit 5f83f04d266e46abc40ab81787fef58ca1fd62bc[m
+Author: TurboKach <incognito@turbokach.me>
+Date:   Thu Apr 1 13:58:05 2021 +0300
+
+    2pac - changes
+
+[33mcommit 5757a2037d69aae4714dde5879914e0d9aa89742[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:14 2019 +0300
+
+    Create program.py
+
+[33mcommit fcbbab91fe56456ec6f5d90102b10899359604c1[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:10 2019 +0300
+
+    Initial commit
