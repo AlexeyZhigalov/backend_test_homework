@@ -1,5 +1,11 @@
-def we_crash_all(name: str) -> str:    
-    return 'Привет, ' + name + ', мы всё сломали!'
+from typing import List, Union
 
 
-print(we_crash_all(100))
+def series_sum(incoming: List[Union[str, float]]) -> str:
+    """Принимает на вход список, приводит его элементы к строкам
+    и конкатенирует их.
+    """
+    result = ''
+    for i in incoming:
+        result += str(i)
+    return result
